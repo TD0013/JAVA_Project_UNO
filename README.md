@@ -1,5 +1,5 @@
 # UNO
-This repository contains the code developed by [Sushrut Patwardhan](f20190382@pilani.bits-pilani.ac.in) and [Tanishq Duhan](f20190636@pilani.bits-pilani.ac.in) for the group assignment : Build UNO, for the course Object Oriented Programming in JAVA.
+This repository contains the code developed by [Sushrut Patwardhan](mailto:f20190382@pilani.bits-pilani.ac.in) and [Tanishq Duhan](mailto:f20190636@pilani.bits-pilani.ac.in) for the group assignment : Build UNO, for the course Object Oriented Programming in JAVA.
 
 ## Table of Contents
 * [How to Use](#how-to-use)

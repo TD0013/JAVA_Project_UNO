@@ -7,7 +7,7 @@ This repository contains the code developed by [Sushrut Patwardhan](f20190382@pi
 * [Analysis of Project](#analysis-of-project)
 * [Video Demonstration](https://drive.google.com/file/d/1ikV5JQsuTkYKpXAe6SbH8Y-UDVYdGrSv/view?usp=sharing)
 * [Plagiarism Statement](https://docs.google.com/document/d/1lZhvOtfVRxw00LGsp8aN04sJJwQBzFvcX22fm_CzjJY/edit#)
-* [UML Diagrams](8.2019B5A70382P_2019B5A70636P.pdf)
+* [UML Diagrams](UML.pdf)
 
 
 ## How to Use

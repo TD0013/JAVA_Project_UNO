@@ -16,7 +16,7 @@ This repository contains multiple files and folders which contain the same code 
 * The File "UNO.java" contains the project in .java format and can be compiled into byteCode.
 * The File "UNO.jar" contains the file in jar format and this code needs to be extracted before use. The extracted file contains a "UNO.java" file that can be can be compiled into byteCode.
 * [This](https://docs.google.com/document/d/1RX_772KRHujQt6YojQMUvlOEX8ROps4PbVOHyAWTbG0/edit#) contains the Helper Document
-* [This](https://docs.google.com/document/d/1O89OEHr1_zfs8FL_6dEZ22pBPBxMdebVVEota0OqsO0/edit#) contains the Analysis of the project
+* [This](OOPS_CriticalAssessment.pdf) contains the Analysis of the project
 * [This](https://drive.google.com/file/d/1ikV5JQsuTkYKpXAe6SbH8Y-UDVYdGrSv/view?usp=sharing) contains the link to the video demonstrating the code
 
 ## [Helper Document](https://docs.google.com/document/d/1RX_772KRHujQt6YojQMUvlOEX8ROps4PbVOHyAWTbG0/edit#)
